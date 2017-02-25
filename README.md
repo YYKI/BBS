@@ -1,2 +1,2 @@
 # BBS
-<a href=BBS.BBS>BBS</a>
+<a href=BBS/BBS>BBS</a>
