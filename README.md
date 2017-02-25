@@ -1,2 +1,2 @@
 # BBS
-<a href=tree/master/BBS>BBS</a>
+<a href=BBS>BBS</a>
